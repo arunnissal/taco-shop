@@ -4,6 +4,8 @@
   padding: 10px 20px;
   margin: 0 auto;
   border-inline: 1px solid #000;
+  font: 22px;
+  font-style: bold;
 }
 head {
   scroll-behavior: smooth;
